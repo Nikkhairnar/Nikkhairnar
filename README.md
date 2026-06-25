@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student currently in Final Year of B.E. in Artificial Intelligence & Data Science
+B.E. in Artificial Intelligence & Data Science
 
 
 ## 🌐 Socials:
